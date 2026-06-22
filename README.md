@@ -1,4 +1,5 @@
 🏥 Bed Occupancy Rate (BOR) Analysis & Dashboard
+
 📌 Project Overview
     This project focuses on analyzing the Bed Occupancy Rate (BOR), a critical Key Performance Indicator (KPI) in healthcare operational management. Maintaining an optimal bed utilization rate is essential for ensuring service efficiency, avoiding hospital overcapacity, and stabilizing revenue streams.
     This repository contains an end-to-end data analytics workflow—from raw data processing and Exploratory Data Analysis (EDA) to the development of an interactive dashboard designed to support data-driven decision-making for operations and management teams.
